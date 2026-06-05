@@ -79,5 +79,5 @@ The repository includes Excel files for 5 different forecast targets (CPIAUCSL, 
   3. Saves the forecasts, relative MSFE, and p-values into an Excel file.
 * Expected Runtime: Approximately 3 hours per variable for each forecast horizon (h).
 
-NOTE: Both scripts contain detailed inline comments describing each algorithmic step for ease of verification.
-================================================================================
+* NOTE: Both scripts contain detailed inline comments describing each algorithmic step for ease of verification.
+
