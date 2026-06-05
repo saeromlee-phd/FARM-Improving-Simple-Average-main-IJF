@@ -18,7 +18,7 @@ Reproducibility Package: Improving the Simple Average Combined Forecast via Fact
   - RAM: 8.00 GB
 
 3. REPOSITORY STRUCTURE
------------------------
+```text
 ├── Combined Forecasts_Main Paper.m        (Main script for Table 1)
 ├── Combined Forecasts_Online Appendix.m    (Main script for Table A1)
 ├── README.txt                              (This file)
