@@ -3,7 +3,7 @@ clear all;
 seed = 123;
 rng(seed, 'twister');
 
-%% Load the data based on the target variables (RPI, CPIAUCSL, PECPI, INDRPO, and UNRATE)
+%% Load the data based on the target variables (RPI, CPIAUCSL, PECPI, INDRPO, and UNRATE) 
 % Here, we use CPIAUCSL as the target variable.
 data_all=readtable('2019-12-NoCPIAUCSL.xlsx'); % predictors x
 real=readtable('2019-12-CPIAUCSL.xlsx'); % forcast target y
