@@ -37,7 +37,7 @@ Reproducibility Package: Improving the Simple Average Combined Forecast via Fact
         kfoldcv_SPCA.m, mtrans.m, ol1.m, ol2.m, panelFactorNew.m, pathl1.m, 
         pathl1_l.m, pathl1_ns.m, pathl2.m, pathl2_l.m, sel_reg_b_new.m, 
         select_lambda_lasso.m, select_lambda_ridge.m, supervisedPCA.m, ul1.m
-
+```
 
 4. DATA DESCRIPTION
 -------------------
