@@ -5,7 +5,7 @@ Reproducibility Package: Improving the Simple Average Combined Forecast via Fact
 ----------------------
 * Date of Assembly: June 4, 2026
 * Author of the reproducibility package: Saerom Lee
-* Contact Information: slee839@ucr.edu
+* Contact Information: saeromlee3390@gmail.com
 
 2. COMPUTING ENVIRONMENT
 ------------------------
